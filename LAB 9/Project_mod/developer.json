@@ -1,0 +1,42 @@
+[
+{
+"id":"17-35760-3",
+"name":"Zareen Zia",
+"e-mail":"zareenzia801@aiub.edu",
+"institution":"AIUB",
+"gender":"female",
+"phone":"9738",
+"area":"Uttara"
+
+},
+{
+"id":"17-53654-3",
+"name":"Mrinmoy Karmakar",
+"e-mail":"m@aiub.edu",
+"institution":"AIUB",
+"gender":"male",
+"phone":"57634",
+"area":"Aftabnagar"
+
+},
+{
+"id":"17-33235-1",
+"name":"Wasimul Islam Talukdar",
+"e-mail":"wasim@aiub.edu",
+"institution":"AIUB",
+"gender":"male",
+"phone":"5474",
+"area":"Banasree"
+
+},
+{
+"id":"17-73474-3",
+"name":"Tithy Sarkar",
+"e-mail":"tithy@aiub.edu",
+"institution":"AIUB",
+"gender":"female",
+"phone":"3334",
+"area":"Bashundhara R/A"
+
+}
+]
